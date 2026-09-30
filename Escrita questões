@@ -1,0 +1,352 @@
+1. O que é uma documentação de software?
+   É um texto que explica como um programa funciona e como 
+   ele foi feito.
+
+2. Para que serve uma documentação?
+   Serve para ajudar as pessoas a entenderem e usarem o programa.
+
+3. Por que um projeto de software deve ser documentado?
+   Porque fica mais fácil entender o projeto, fazer mudanças e
+    corrigir problemas.
+
+4. Quem pode utilizar uma documentação?
+   Programadores,alunos, professores e qualquer pessoa que precise
+    entender o projeto.
+
+5. O que pode acontecer com um projeto que não possui documentação?
+   Pode ficar difícil de entender, corrigir ou continuar o projeto 
+   depois.
+
+6. Existe apenas um tipo de documentação de software?
+   Não. Existem vários tipos, dependendo do objetivo da 
+   documentação.
+
+7. Quais informações normalmente aparecem em uma documentação 
+de projeto?
+   Informações sobre o projeto, como ele funciona, suas funções e 
+   as tecnologias utilizadas.
+
+8. Como uma documentação deve ser organizada para facilitar a 
+leitura?
+   Deve ter títulos, tópicos e informações organizadas de uma 
+   forma fácil de acompanhar.
+
+9. Qual é a diferença entre explicar um projeto e simplesmente 
+colocar o código-fonte dele em um documento?
+   Explicar o projeto é dizer como ele funciona. Só colocar o 
+   código não explica o que cada parte faz.
+
+10. O que torna uma documentação fácil de entender?
+    Uma linguagem simples, explicações claras e informações bem 
+    organizadas.
+
+(Fontes:https://www.techtarget.com/searchsoftwarequality/definition/documentation?utm_source=chatgpt.com)
+(https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/What_we_write?utm_source=chatgpt.com)
+(https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide?utm_source=chatgpt.com)
+(https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Page_structures/Page_types?utm_source=chatgpt.com)
+
+1-Não pode faltar o termo de abertura do projeto
+Ele é a documentação de projetos relativa á fase de iniciação 
+pois é isso q autoriza formalmente a criação do projeto.
+Este é o primeiro de todos os documentos ,que concede ao gerente
+de projetos a autoridade para aplicar os recursos organizacionais 
+ás atividades.  Ele pode ser um acordo formal ou contrato comercial
+e deve cnter informações sumarizadas e com um mínimo de detalhamento 
+para a aprovação ou não de um projeto e esclarecer aspectos
+ relacionados ao contraste e ao contratado,como;
+
+ -Nome do projeto;
+ -Descrição sumária de objetivos gerais e necessidades atendidas;
+ -Estudo de viabilidade 
+
+E muito mais!!
+
+2-Plano de gerenciamneto do projeto
+Essa documentação de projetos faz parte da fase do planejamento,
+como os que virão a seguir. Ele será o índice de referências,no
+qual ficarão armazenados todos os documentos,quanto do planejamneto 
+estratégico quanto da execução do projeto.
+Ele é fundamental porque descreve como o projeto deve ser executado,
+monitorado,controlado,e encerrado e serve como um guia para a equipe
+durante todas as fases do projeto.
+
+3-Plano de gerenciamento do escopo
+Também conhecido como PGE,essa documentação de projetos 
+determina os objetivos do projeto,e o seu escopo para facilitar
+lidar com as mudanças que surgirem no percurso. 
+Deve ser um documento fácil de entender,para que todasas partes 
+interessadas estejam alinhadas. O PGE também deve conter o
+processo de criar a Estrtutura Analítica do Projeto (EAP)
+Que subdivide os produtos e o trabalho em componentes mais 
+gerenciáveis.
+
+4-Plano de gerenciamento do cronograma.
+É o compilado das fases do projeto,mês a mês, com suas tarefas de
+destaque,o status de cada uma (concluida,em andamento,contínua ou 
+por fazer) e ainda data de início ou expiração do processo.
+É o documento que as partes interessadas (stakeholders) mais 
+desejarão ver.
+
+5-Plano de gerenciamento da equipe 
+Fornece a rápida visualização de quem tá fazendo o que no projeto.
+Facilita a execução eficiente do projeto e deve tornar a 
+comunicação da equipe a mais transparente possível.
+O principal benefício é garantir que os eles estejam disponíveis no
+ projeto na hora certa e no momento certo,e sejam liberados quando
+ não forem mais necessários. A ferramenta possui um timesheet 
+ automatizado e oferece dados confiáveis sobre produtividade 
+ e ainda gera relatórios de custos,deempenho e muito mais
+ ,oque te dá base para realizar orçamentos futuros e 
+ estabelecer prazos mais realistas.Nele,é possível acompanhar 
+ o tempo investido nas ataividades e os prazos das tarefas,
+ distribuir as atividades de acordo com a disponibilidade da
+ equipe,evitando a sobrecarga no trabalho ou abrindo a 
+ possibilidade de aceitar novos projetos.
+
+ 6-Plano de gerenciamento do trabalho 
+ Mantem o controle das atividades,os pacotes de trabalho,custos,
+ duração,recursos,metas,caminho crítico do projeto etc.  É uma 
+ docuemntação de projetos essencial por ser a diretriz do trabalho
+ em equipe. 
+
+ 7-Plano de garantia de qualidade 
+ Serve para monitorar o padão de qualidade que a entrega dos 
+ projetos deverão obedecer. Essa documentação de projetos costuma 
+ incluir tests de abordagem do produto,políticas de qualidade,
+ checklists de qualidade,definições de envio,etc.
+
+ 8-Plano de gerenciamento de riscos
+ Na qual ficam relatados os riscos do projeto e suas possíveis
+ soluções,além das oportunidades e os planos para explorá-las
+ ao máximo,logo ue surgirem. 
+
+ (Fonte:https://blog.runrun.it/8-documentos-essenciais-para-o-controle-de-projetos/)
+
+ A documentação pode ser entregue em formatos como PDF,DOCX,HWP,etc.
+ (Fonte: https://www.onlyoffice.com/blog/pt-br/2024/08/formatos-de-documentos)
+
+Escrever títulos e subtítulos requer a consideração de vários 
+fatores,como a finalidade,o público,o tom,o estilo e o 
+comprimento do documento. Para garantir clareza e consistência,
+use uma linguagem clara e concisa que capture a ideia principal
+de cada seção. Além disso,mantenha estrutura e gramática paralelas 
+para títulos e sub títulos que pertençam ao mesmo nível.
+Além disso,use rótulos lógicos e significativos para títulos 
+e subtítulos para indicar a sequência e a relação de suas seções.
+Evite usar muitos ou poucos títulos e subtítulos,pois eles podem
+sobrecarregar e confundir os seus leitores.
+
+(Fonte: https://www.linkedin.com/advice/1/how-do-you-structure-your-document-logically?lang=pt&originalSubdomain=pt )
+
+COMO UTILIZAR IMAGENS??
+1-Armazenamento dos arquivos de imagem;
+2-Utilizar imagens vetorais x não vetorais;
+3-Imagens utilizadas como referência;
+4-Publicação das imagens;
+5-Reuso da mesma imagem;
+6-Controle de versão da imagem;
+7-Tamanho da Imagem;
+8-Atualização de imagens; 
+9-Controle de qualidade das imagens no documento;
+10-Tradução de texto em imagens.
+
+(Fonte:https://blog.romarconsultoria.com.br/2017/04/10-cuidados-ao-utilizar-imagens-em.html   )
+
+COMO INSERIR TABELA?
+1-Faça a menção da tabela no texto: Não é recomendado incluir 
+imagens de forma solta no trabalho.
+2-Escreva a legenda e a fonte: Na parte superior da tabela,escreva
+a legenda para indicar o conteúdo que está sendo 
+abordado no recurso.
+3-Elabore um parágrafo explicativo: Para finalizar,é importante
+organizar um parágrafo para explicar as informações contidas na 
+tabela. 
+
+(Fonte:https://www.normasabnt.org/tabela-abnt/)
+
+COMO IDENTIFICAR IMAGENS E TABELAS?
+Tabelas-São a forma não discursiva de apresentação e informações,
+representadas por dados numéricos e codificações,dispostos em 
+uma ordem determinada,segundo as variáveis analisadas em um 
+fenômeno.
+
+(Fonte:https://biblioteca.fsp.usp.br/guia/i_cap_04.htm)
+
+Imagens-É um tema guarda chuva:gráficos,fluxogramas,fotografias,
+desenhos,esquemas,mapas e organogramas entram todos nessa categoria.
+
+(Fonte:https://blog.fastformat.co/como-referenciar-figuras-tabelas-normas-abnt/)
+
+COMO APRESENTAR REFERÊNCIAS DAS FONTES PESQUISADAS?
+Para fazer referências com mais segurança não comece pela 
+aparência,primeiro separe os dados da fonte.Depois,organize
+cada iem conforme o tipo de material usado.
+1-Liste toda as fontes citadas no texto;
+2-Separe autor,título,edição,local,ditora  ano quando houver.
+3-Identifique se a fonte é livro,artigo,site,capítulo ou documento 
+online.
+4-Monte a referência conforme o tipo de material;
+5-Padronize alinhamento,espaçamento e ordem da lista final;
+6-Confira se toda a citação do texto aparece nas referências.
+
+COMO ORGANIZAR NOMES DE ARQUIVOS?
+1-Defina uma estrutura de pastas lógica e consistente.
+Características de uma boa estrutura de pastas:
+-Hierarquia clara;
+-Padronização nos nomes.
+
+2-Utilize um sistema de nomeaclatura padrão.
+Boas práticas de nomenclatura:
+-Data no inicio do nome do arquivo;
+-Descrição clara e específica;
+-Evite caracteres especiais.
+
+3-Classificação e categorização de documentos.
+Categorias comuns a cosiderar;
+-Confidenciais;
+-Financeiros;
+-Contratos;
+-projetos
+FERRAMENTAS DE CATEGORIZAÇÃO 
+-Etiquetas ou tecnologias;
+-Subpastas específicas.
+
+4-Controle de versão de documentos.
+-Numeração de versões;
+-documentação de mudanças;
+-Evite múltiplas cópias.
+
+5-Backup e armazenamento seguro.
+-Armazenamneto em nuvem;
+-Backup regular;
+-Criptografia.
+
+6-Gestão de acesso e permissões.
+Boas práticas de gestão de sucesso;
+-Defina permissões claras.
+-Utilize grupos de segurança;
+-Revisão periódica de permissões.
+
+7-Treinamento e documentação interna.
+Exemplos de treinamneto e documentação;
+-Sesso~es de treinamento;
+-Guia de boas práticas.
+
+(Fonte:https://www.linkedin.com/pulse/boas-pr%C3%A1ticas-na-organiza%C3%A7%C3%A3o-de-documentos-e-jtjsf/ )
+
+COMO DEIXAR O DOCUMENTO FÁCIL DE LER?
+-Adicionar ou criar texto alternativo ;
+-Usar tabelas de dados ;
+-Fazer comentários e sugestões ;
+-Conferir o alto contraste de cor ;
+-Usar links com texto informativo ;
+-Conferir o tamanho e o alinhamento do texto ;
+-Usar texto além da formatação ;
+-Usar listas numeradas e com marcadores ;
+-Usar títulos para organizar o seu documento ;
+-Incluir pontos de referência de navegação no texto ;
+-Apresentar slides com legendas ;
+-Apresentar videos com legendas ;
+-Compartilhar um link para a visualização HTML da sua apresentação ;
+-Publicar na web.
+
+(Fonte:https://support.google.com/docs/answer/6199477?hl=pt-BR)
+
+QUAIS ERROS DEVEM SER EVITADOS?
+1-Falta de um sistema adequado de arquivamento,podem resultar em
+informações perdidas ou de dficil acesso.
+2-Falta de controle de versões,pode gerar confusão,duplicação de 
+trabalho e decisões baseadas em informações desatualizadas.
+3-Não definir políticas de acesso e segurança,pode comprometer a
+sgurança da informação e a conformidade com regulamentos como a 
+LGPD.
+4-Subestimar a importância de backups regulares,pode ser desastrosa
+em casos de falhas no sistema,perda de dados ou ataques cibernéticos.
+Documentos cíticos podem ser irrecuperáveis se não houver backups 
+adequados.
+5-Ignorar a conformidade com regulamentos de privacidade,A não 
+conformidade com regulamentações como a Lei Geral de Proteção de 
+Dados (LGPD) pode resultar em penalidades severas. Empresas que 
+lidam com informações confidenciais devem garantir que seus
+processos de gestão de documentos estejam de acordo com as leis
+de privacidade.
+
+(Fonte:https://simagestao.com.br/os-5-erros-mais-comuns-na-gestao-de-documentos-e-como-corrigi-los-guia-pratico-para-empresas/)
+
+5 BOAS PRÁTICAS PARA ENTREGA DE UMA DOCUMENTAÇÃO !!
+
+Levante o que deve ser documentado,boa parte de uma 
+documentação retida por uma organização é exigida por requisitos 
+legais e normativos. Outra fatia é exigência interna para fins de controle 
+ou conhecimento organizacional. O obejtivo é controlar o trâmite de documentos
+,mas também identificar a falta de registros úteis e evitar a retenção de informação 
+redundante ou desnecessária. 
+
+Estabeleça um plano de Classificação dos documentos,isto é,como cada espécie
+de docuemnto deve ser agrupada,a fim de facilitar o acesso e uso.
+Toda empresa tem a liberdade para definir qual será a 
+cliassificação de sua documentação como bem entender,com maior ou menor nível de detalhe.
+Há várias maneiras de fazer isso,dede a tradicional organização por setor,até
+organizações diferentes,como organizações de acordo com quem consome o documento.
+Também pode organizar de acordo com idades,pela frequ~encia do uso.
+
+Elabore uma tabela de temporaridade documental,sobretudo se tiver documentos
+que exigem retenção. No caso da retenção permanente,considere trabalhar com arquivos 
+corrente,intermediário e permanente.
+
+Adote modelos de formatação de documentos,é boa prática que toda a organização siga uma formatação
+uniforme em sua documentação,que facilite a identificação e compreensão. Modelhos de cabeçalho,rodapé,margem etc.
+
+Automatize tarefas simples e frequentes,quanto mais automatizados os controles,menos preocupação com gestão de prazos,
+tarefas,rsponsáveis e fluxo você tem. Notificações de tarefas,de publicação,de vencimento,
+assim como arquivamento,tudo isso pode ser automatizado.
+
+(Fonte:https://qualyteam.com/pb/blog/a-gestao-de-documentos-aplicada-nas-organizacoes/)
+
+ANALISE O SEU PRÓPRIO PROJETO 
+Transforme a pesquisa em documentação.
+
+Agora chegou o momento de utilizar o que você descobriu. Você deverá analisar a aplicação Feira Digital de Trocas que desenvolveu.
+
+Nome do projeto: Feira Digital de Trocas.
+Objetivo da apliaplicação: Permitir que as pesoas anunciemitens que não usam mais e encontrem outros produtos até mesmo para trocas.
+Problema que resolve: O acúmulo de objetos sem uso e a dificuldade de concetar as pessoas interessadas em realizar trocas.
+Público alvo: Consumidores conscientes que buscam economia.
+
+
+O Javascript montou toda a lógica da feira de trocas,onde permitiu que as pessoas cadastrassem itens.
+O HTML estruturou o visual da página,tipo formulários etc;
+O CSS montou o visual da página deixando bonito e bem organizado.
+o DOM manipulou a página inteira em tempo real inserindo novos cards de produtos cadastrados e removendo itens da tela.
+Local Storage salvou os dados dos produtos direto no navegador do usuário.
+
+EU USEI AS FUNÇÕES:
+1. Cadastrar Item:Pega os dados do formulário, valida se está tudo preenchido, salva o novo item e limpa a tela para o próximo.
+2. Carregar Exemplos:Preenche o sistema com dados de teste para você ver como fica sem ter que digitar tudo do zero.
+3. Limpar Tudo:Apaga todos os itens salvos de uma só vez e reseta a tela.
+4. Resumo (Painel):Conta automaticamente quantos itens existem por categoria/status e mostra no topo da tela.
+5. Pesquisar e Filtrar:Esconde os itens da tela e deixa só os que batem com a busca ou com a categoria selecionada.
+6. Listagem:Exibe os cartões com os itens na tela (ou a mensagem "Nenhum item cadastrado" se estiver vazio).
+
+---
+
+O que o JavaScript faz no fundo?
+
+Ele usa 3 pilares principais:
+
+1. Manipula a Tela (DOM):Desenha e apaga os itens no HTML.
+2. Filtra Dados:Usa `.filter()` para buscar e `.reduce()` para somar os totais do resumo.
+3. Salva Dados:Usa `localStorage` para os itens não sumirem quando 
+você atualiza a página.
+
+O que guarda:Tudo o que você digita no formulário (nome, categoria, se é doação ou troca, etc.).
+O "CPF" do item:Cada item ganha um ID único (um código só dele) pra o sistema não confundir dois itens parecidos.
+Como cria:Você clica no botão, o código pega as informações e monta o cartão do item na tela.
+Como muda ou apaga:O código procura pelo ID do item e altera os dados dele ou joga fora.
+Por que não some ao recarregar:Toda vez que você mexe em algo, o
+ código salva no Local Storage (que é tipo o "bloco de notas" do
+  navegador). Quando você atualiza a página, ele lê o que tava 
+  salvo ali e desenha tudo de novo na tela!
+
+
+
